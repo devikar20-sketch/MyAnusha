@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Wow. I really am the luckiest guy out there",
         message: "<3333333",
-        emojis: "We got this. :) "  // These will bounce around
+        emojis: "We got this."  // These will bounce around
     },
 
     // Color scheme for the website
